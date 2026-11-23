@@ -1,8 +1,0 @@
-name: LightoftheWorld
-description: Default template created by the Manual Builder tool
-
-game: Manual_FromTheDepths_LightoftheWorld
-
-Manual_FromTheDepths_LightoftheWorld:
-    progression_balancing: 50
-    accessibility: items
