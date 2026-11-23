@@ -45,6 +45,9 @@ The other important one to explain is "Progressive Blocks". This will unlock blo
 
 Progressive Turret Size allows you to place larger turret bases down (First PTS allows 3x3 and second PTS allows 5x5).
 
+
+Progressive Lens for PACS awards you a random lens, and you start with one random lens. Just assign each lens #1-5 and spin a wheel.
+
 The rest of the items should be fairly self-explanatory.
 
 Please provide feedback!
