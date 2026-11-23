@@ -32,6 +32,19 @@ There are 10 "Progressive Cost" items (progression) and three "Extra Cost" items
 Each "Extra Cost" will add +5% to your current progressive cost. So, if your max cost is currently 150K, and you have one Extra Cost, you now have a max cost of 157.5K.
 Each Subvehicle may cost 5% of your max cost at that time, and each Progressive Subvehicle Cost increases that by 5%, to a max of 25%.
 
+The other important one to explain is "Progressive Blocks". This will unlock blocks in the Blocks tab to build with.
+
+0 Progressive Blocks (Starting out): Wood and Lead
+
+1 Progressive Blocks: Stone, Rubber, Reinforced Decking, Surge Protectors
+
+2 Progressive Blocks: Metal, Light-Weight Alloy, Plates, Applique Panels
+
+3 Progressive Blocks: Everything in the blocks tab (New blocks include Heavy Armour, ERA.
+
+
+Progressive Turret Size allows you to place larger turret bases down (First PTS allows 3x3 and second PTS allows 5x5).
+
 The rest of the items should be fairly self-explanatory.
 
 Please provide feedback!
